@@ -4,7 +4,6 @@
 A Colorado Board of Elections employee has given us  the following tasks to complete the election audit of a recent local election :
 
 1. There  were 369,711 votes cast in the election.
-
 2  The candidates were:
   - Candidate : Charles Casper Stockham.
   - Candidate : Diana DeGette.
